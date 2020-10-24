@@ -154,7 +154,8 @@
        
    }
    .main-nav li{
-       font-size: 140%;
+       font-size: 120%;
+       margin-left: 0px;
    }
    .btn-ghost,.btn-full{
        margin-top: 5px;
