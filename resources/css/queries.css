@@ -149,7 +149,7 @@
        width: 100%;
    }
    header{
-       height: 90vh;
+       /* height: 90vh; */
        font-size: 90%;
    }
    .main-nav li{
