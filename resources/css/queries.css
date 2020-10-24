@@ -151,6 +151,9 @@
    header{
        /* height: 90vh; */
        font-size: 90%;
+       background-image: linear-gradient(rgba(0, 0, 0, 0.432),rgba(0, 0, 0, 0.432)),url("img/hero.jpg");
+        background-size: cover;
+        background-attachment: fixed;
    }
    .main-nav li{
        font-size: 70%;
