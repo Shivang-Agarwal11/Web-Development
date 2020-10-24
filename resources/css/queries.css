@@ -138,7 +138,25 @@
    section{
        padding :25px;
    }
+   .logo,.logo-black{
+       height: 50px;
+       
+   }
+   .main-nav{
+       margin-left: 10px;
+   }
    .contact{
        width: 100%;
    }
+   header{
+       height: 90vh;
+       font-size: 90%;
+   }
+   .main-nav li{
+       font-size: 70%;
+   }
+   .btn-ghost,.btn-full{
+       margin-top: 5px;
+   }
+
 }
