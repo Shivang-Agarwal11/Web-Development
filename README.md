@@ -3,5 +3,5 @@
 * HTML
 * Cascading Style Sheets
 * JavaScript
-
+<h2>Here are some shots of the site</h2>
 
