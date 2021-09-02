@@ -4,7 +4,7 @@
 * Cascading Style Sheets
 * JavaScript
 <h2>Here are some shots of the site</h2>
-<h3><a href="https://shivang-agarwal11.github.io/Web-Development/">Click Here To Become Foodish :yum: </a></h3>
+<h3><a href="https://shivang-agarwal11.github.io/Web-Development/" target="_blank">Click Here To Become Foodish :yum: </a></h3>
 <img src="resources/img/home.png" height="60%" width="60%">
 
 <img src="resources/img/page2.png" height="60%" width="60%">
