@@ -1,7 +1,7 @@
-# FOODISH:A Sample Food Delivery Site
+# FOODISH:A Sample Food Delivery Site(Front-End)
 ### Technologies involved
 * HTML
-* Cascading Style Sheets
+* Cascading Style Sheets (CSS)
 * JavaScript
 <h2>Here are some shots of the site</h2>
 <h3><a href="https://shivang-agarwal11.github.io/Web-Development/" target="_blank">Click Here To Become Foodish :yum: </a></h3>
