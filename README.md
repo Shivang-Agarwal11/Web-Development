@@ -15,3 +15,6 @@
 
 <img src="resources/img/page6.png" height="60%" width="60%">
 
+<video width="320" height="240">
+<source src="resources/img/2021-09-02 19-43-31.mkv"> 
+</video>
